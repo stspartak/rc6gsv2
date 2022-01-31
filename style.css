@@ -57,6 +57,11 @@ h1, h2 {
     margin: 0 16px;
 }
 
+.menu-image {
+    margin: 0 16px 16px;
+    width: 250px;
+}
+
 .link {
     padding: 16px;
 }
